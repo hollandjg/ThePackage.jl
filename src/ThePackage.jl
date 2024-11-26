@@ -1,4 +1,4 @@
 module ThePackage
     export getVersion
-    getVersion() = "1.0.0-DEV"
+    getVersion() = "1.0.1"
 end
